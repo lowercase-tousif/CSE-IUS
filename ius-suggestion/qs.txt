@@ -1,0 +1,42 @@
+Suggestions for Lab Test ::
+1. check even or odd
+2. find largest among two numbers
+3. find largest among three numbers
+4. print numbers between 1 and 10
+5. print number between 10 and 1
+6. swap value between two variables
+7. print Fibonacci series
+8. print all even numbers between 1 and 10
+9. print all odd numbers between 10 and 10
+10. check given number is prime or not?
+11. check given number is perfect or not?
+12. check given number is strange or not?
+13. check given number is palindrome or not?
+14. print all vowels from a string
+15. count the number of vowels in a string
+16. covert a character from lower case to upper case
+17. convert a character from upper case to lower case
+18. print ascii from a given character
+19. add two values using pointer variables
+20. sum all values from an array
+21. sum all values from a 2 by 4 dimensional array
+22. find an integer number from an array
+23. print the location of an integer number from an array
+24. add all values from two arrays and keep it to another array
+25. sum all values from an array with the help of pointer variable
+26. add two values using a user defined function. function must return a value
+27. sum of all values using a user defined function. function must receive an array from main function and return value.
+28. calculate factorial using for loop
+29. calculate factorial using recursive function
+30. print the below pattern
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+31. Print the below pattern
+*****
+****
+***
+**
+*
